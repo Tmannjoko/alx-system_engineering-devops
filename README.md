@@ -1,1 +1,1 @@
-system shell
+Shell permissions
